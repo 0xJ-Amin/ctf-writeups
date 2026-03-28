@@ -3,7 +3,7 @@
 - **Challenge Author:** LT 'syreal' Jones
 - **Write-up Author:** z3romove
 - **Challenge URL:** https://play.picoctf.org/events/79/challenges/742
-![[Pasted image 20260328144035.png]]
+![challenge description](bytemacy0.png)
 
 ## Source Code Analysis
 Looking at `app.py`, the core logic is found in the conditional check:
